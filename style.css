@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(/hearts.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    background-size: cover;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content-box {
+    position: relative;
+    background-color: rgba(243, 234, 234, 0.75);
+    box-shadow: 0 0 30px #000;
+    width: 20rem;
+}
