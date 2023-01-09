@@ -17,11 +17,31 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    text-align: center;
 }
 
 .content-box {
-    position: relative;
     background-color: rgba(243, 234, 234, 0.75);
     box-shadow: 0 0 30px #000;
-    width: 20rem;
+    width: 25rem;
+    padding: 1.5rem;
+    border-radius: 2em;
+}
+
+#calculate {
+    padding: 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+h1 {
+    margin-bottom: 1.2rem;
+}
+
+h2 {
+    margin-top: 1rem;
+}
+
+#result-percentage {
+    font-size: 2rem;
 }
