@@ -1,3 +1,3 @@
-# Compatibility-Calculator using Simple JavaScript
+# Compatibility-Calculator
 
 https://kamya123.github.io/Compatibility-Calculator/
